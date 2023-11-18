@@ -9,3 +9,4 @@
 
 Пример:
 
+https://github.com/Fedmog1lnkv-ISU-Homework/GuessNumber/assets/91246102/672427b4-f9bc-4e1a-898c-4b1af18e8612
